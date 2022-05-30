@@ -25,7 +25,7 @@ body {
   .header {
     text-align: center;
   }
-  
+
 }
 
 .main {
@@ -54,11 +54,11 @@ ul {
 }
 
 .task-item {
-  list-style:none;
+  list-style: none;
 }
 
-input,button{
-  outline:none;
+input,button {
+  outline :none;
 }
 
 .btn {
@@ -128,7 +128,7 @@ input[type="checkbox"] {
   margin: 0 10px;
 }
 
-.task-item >    input[type="text"] {
+.task-item > input[type="text"] {
   width: 226px
 }
 
@@ -150,14 +150,14 @@ input[type="checkbox"] {
 
 /* Edit Task */
 .task-item input[type="text"] {
-  display:none
+  display: none
 }
 
 .edit-mode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .task {
-  display:none;
+  display: none;
 }
