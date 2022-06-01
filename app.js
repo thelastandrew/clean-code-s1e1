@@ -13,7 +13,6 @@ var addButton = document.getElementsByTagName('button')[0];//first button
 var incompleteTaskHolder = document.querySelector('.todo__list');//ul of #incompleteTasks
 var completedTasksHolder = document.querySelector('.completed__list');//completed-tasks
 
-
 //New task list item
 var createNewTaskElement = function(taskString) {
 
