@@ -51,7 +51,7 @@ body {
 }
 
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -61,7 +61,7 @@ body {
 
 .input,
 .btn {
-  outline :none;
+  outline: none;
 }
 
 .btn {
